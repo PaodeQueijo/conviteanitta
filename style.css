@@ -1,0 +1,45 @@
+h1{
+        color: #f8fcf7;;
+    text-align: center;
+    
+}
+h2{
+    color: rgb(212, 252, 247);
+    text-align: center;
+
+    
+}
+
+.cadastro{   
+     margin-bottom: 30px;
+    font-size: 50px;
+text-align: center;
+display: block;
+background-color: white;
+    width: 500;
+    margin: 0 auto;
+    color: black;
+    text-decoration: none;
+    border: 2px solid;
+}
+.topo{ 
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+margin-top: 40px;
+    background-image: url(Anitta.jpg);
+    background-size: cover;
+
+}
+body{
+    background-image: url("imagem 23.png");
+    color: #FFEB3B;
+        color: #FFEB3B;
+        background-size: cover;
+
+
+}
+form{
+    margin: 0 auto;
+    width: 750;
+}
